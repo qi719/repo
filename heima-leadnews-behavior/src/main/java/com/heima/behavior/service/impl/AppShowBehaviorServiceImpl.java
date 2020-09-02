@@ -69,7 +69,7 @@ public class AppShowBehaviorServiceImpl implements AppShowBehaviorService {
             System.out.println("执行中");
         }
         System.out.println("执行后");
-
+        System.out.println("lalala");
         return ResponseResult.okResult(0);
     }
 
